@@ -1,6 +1,8 @@
 import 'package:isar/isar.dart';
 
 part 'habit.g.dart';
+
+@Collection()
 class Habit{
   // habit id
   Id id = Isar.autoIncrement;
