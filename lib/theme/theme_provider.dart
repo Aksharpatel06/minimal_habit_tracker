@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:minimal_habit_tracker/theme/dark_mode.dart';
 import 'package:minimal_habit_tracker/theme/light_mode.dart';
 
-class ThemeProvider extends ChangeNotifier{
-
+class ThemeProvider extends ChangeNotifier {
   // initially, light mode
   ThemeData _themeData = lightMode;
 
@@ -14,21 +13,17 @@ class ThemeProvider extends ChangeNotifier{
   bool get isDarkMode => _themeData == darkMode;
 
   // set theme
-  set themeData(ThemeData themeData)
-  {
+  set themeData(ThemeData themeData) {
     _themeData = themeData;
     notifyListeners();
   }
 
   // toggle theme
-  void toggleTheme()
-  {
-    if(_themeData == lightMode)
-      {
-        themeData = darkMode;
-      }else
-        {
-          themeData = lightMode;
-        }
+  void toggleTheme() {
+    if (_themeData == lightMode) {
+      themeData = darkMode;
+    } else {
+      themeData = lightMode;
+    }
   }
 }
