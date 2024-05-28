@@ -19,7 +19,7 @@ class MyHabitTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 5,horizontal: 25),
+      padding: const EdgeInsets.symmetric(vertical: 5, horizontal: 25),
       child: Slidable(
         endActionPane: ActionPane(
           motion: const StretchMotion(),
@@ -59,7 +59,13 @@ class MyHabitTile extends StatelessWidget {
             padding: const EdgeInsets.all(12),
             child: ListTile(
               // text
-              title: Text(text,style: TextStyle(color: isCompleted ? Colors.white:Theme.of(context).colorScheme.inversePrimary),),
+              title: Text(
+                text,
+                style: TextStyle(
+                    color: isCompleted
+                        ? Colors.white
+                        : Theme.of(context).colorScheme.inversePrimary),
+              ),
 
               // checkbox
               leading: Checkbox(
