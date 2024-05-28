@@ -3,9 +3,10 @@ import 'package:flutter_heatmap_calendar/flutter_heatmap_calendar.dart';
 
 class MyHabitMap extends StatelessWidget {
   final DateTime startDate;
-  final Map<DateTime,int> datasets;
+  final Map<DateTime, int> datasets;
 
-  const MyHabitMap({super.key, required this.startDate, required this.datasets});
+  const MyHabitMap(
+      {super.key, required this.startDate, required this.datasets});
 
   @override
   Widget build(BuildContext context) {
