@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:minimal_habit_tracker/componects/my_habit_map.dart';
 import 'package:minimal_habit_tracker/componects/my_habit_title.dart';
 import 'package:minimal_habit_tracker/database/habit_database.dart';
 import 'package:minimal_habit_tracker/modals/habit.dart';
-import 'package:provider/provider.dart';
 
 import '../componects/my_drawer.dart';
 import '../utils/habit_utils.dart';
