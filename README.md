@@ -37,17 +37,21 @@
 
 * Light Theme
 
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/541eef2f-cef7-4885-b320-b2e81c0c1b50' width=240>
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/0aff9441-150f-4304-a71a-8065864fce43' width=240>
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/dd4cee04-9c4c-4e5c-b0bb-c836912ed099' width=240>
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/96f0d73f-83e6-42f6-a4f9-1aa74b587c5c' width=240>
+<p align='center'>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/541eef2f-cef7-4885-b320-b2e81c0c1b50' width=240>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/0aff9441-150f-4304-a71a-8065864fce43' width=240>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/dd4cee04-9c4c-4e5c-b0bb-c836912ed099' width=240>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/96f0d73f-83e6-42f6-a4f9-1aa74b587c5c' width=240>
+</p>
 
 * Dark Theme
 
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/9d8d645f-d041-4f93-b0b9-ccdc47ce35ff' width=240>
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/70fd670d-5533-413a-b16d-6e31f6200190' width=240>
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/08636a91-d87b-4306-851b-5b91b9e2d066' width=240>
-<img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/a575cf19-e589-49b5-a336-a2957b39ba18' width=240>
+<p align='center'>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/9d8d645f-d041-4f93-b0b9-ccdc47ce35ff' width=240>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/70fd670d-5533-413a-b16d-6e31f6200190' width=240>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/08636a91-d87b-4306-851b-5b91b9e2d066' width=240>
+   <img src='https://github.com/Aksharpatel06/minimal_habit_tracker/assets/143181114/a575cf19-e589-49b5-a336-a2957b39ba18' width=240>
+</p>
 
 ### Video
 
